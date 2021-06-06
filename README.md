@@ -2,6 +2,8 @@ Akardiyan V12 Gelişmiş Hazır Aktivite Bot Altyapı
 =================
 Merhaba arkadaşlar altyapı projesine hoşgeldiniz
 
+Glitch'den Yapacaklar İçin [Glitch Linki](https://glitch.com/edit/#!/v12-yayin-altyapi)
+
 !! => Bu kısma dikkat edin;
 
 `ayarlar.json'dan botunuzun ayarlarını yapmazsanız bot çalışmaz`
@@ -15,8 +17,6 @@ Merhaba arkadaşlar altyapı projesine hoşgeldiniz
 `3- Tokeni value kısmına girin`
 
 `Artık Kimse Tokeninizi Alıp Sunucularınızı Patlatamaz :)`
-
-[YouTube](https://www.youtube.com/channel/UCefQXJPxd3YxXea-W-hq5RQ)
 
 [Discord](https://discord.gg/eyj4HbT7JH)
 
